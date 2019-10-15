@@ -58,7 +58,7 @@
   export default {
     name: 'app-cake',
     components: {
-      //HelloWorld
+      HelloWorld
     },
     data() {
       return {
